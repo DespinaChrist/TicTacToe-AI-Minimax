@@ -31,8 +31,7 @@ The AI opponent uses the Minimax algorithm to determine its moves, which guarant
 ## Examples
 Here are some screenshots of the game:
 
-Screenshot 1
-Screenshot 2
+<img src="https://github.com/DespinaChrist/TicTacToe-AI-Minimax/blob/main/screenshots/tic-tac-toe-s1.png"  width=40% height=40%>  <img src="https://github.com/DespinaChrist/TicTacToe-AI-Minimax/blob/main/screenshots/tic-tac-toe-s2.png"  width=40% height=50%>
 
 ## Acknowledgments
 This project was completed as part of the [CS50 course](https://cs50.harvard.edu/ai/2020/) offered by Harvard University. Special thanks to the course staff for all the material and help provided.
